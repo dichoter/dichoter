@@ -1,5 +1,5 @@
 ### Hi, I'm Dichoter!
 
-- 🏹 I use Archcraft
+- 🏹 I use Arch Linux
 - 🐧 Linux Enthusiast
 - 🎸 Guitarist
